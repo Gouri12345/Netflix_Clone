@@ -1,2 +1,2 @@
 # Netflix_Clone
-Clone of Netflix website using HTML,CSS and JS
+Clone of Netflix landing website using HTML,CSS and JS
